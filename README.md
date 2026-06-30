@@ -1,50 +1,85 @@
-# Hi there, I'm Yazan Faroun! 👋
+# Hi, I'm Yazan Faroun 👋
 
-I'm a passionate software developer with a knack for creating robust and efficient software solutions. With a strong foundation in various modern technologies and a keen eye for detail, I strive to deliver high-quality projects that meet and exceed expectations.
+Senior Full-Stack Software Engineer & Business Analyst building scalable enterprise web applications with **.NET, Angular, NestJS, SQL, and MongoDB**.
 
----
+I specialize in translating business workflows into clean, maintainable technical solutions across healthcare, SaaS, education, and logistics systems.
 
-## 🌟 About Me
+I work mainly with **ASP.NET/.NET**, **Angular**, **NestJS**, **SQL**, and **MongoDB**, with experience in designing backend APIs, frontend architectures, authentication flows, role-based access, integrations, and modular enterprise systems.
 
-- **Name**: Yazan Faroun
-- **Role**: Software Developer | Scrum Master
-- **Expertise**: ASP.NET, Angular, NestJS, MongoDB
-- **Skills**: Building project structures, good team player, creative thinker
-- **Familiar With**: React, React Native
+I enjoy turning complex business requirements into clean technical solutions — from database design and API structure to responsive user interfaces and production-ready workflows.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
 
-- **Backend Development**: 
-  - ASP.NET
-  - NestJS
-  - MongoDB
-
-- **Frontend Development**: 
-  - Angular
-  - React (Familiar)
-  - React Native (Familiar)
-
-- **Project Management**:
-  - Scrum Master
-  - Building project structures
-
-- **Soft Skills**:
-  - Good team player
-  - Creative problem solver
+- 💼 Full-Stack Software Engineer & Business Analyst
+- 🧩 Experienced in healthcare, education, logistics, and SaaS-style systems
+- 🛠️ Main stack: **ASP.NET/.NET, Angular, NestJS, SQL, MongoDB**
+- 🧱 Focused on clean architecture, maintainable code, and scalable project structure
+- 🤝 Comfortable working with teams, stakeholders, and business workflows
+- 🌱 Familiar with **React** and **React Native**
+- 🚀 Interested in workflow-driven apps, automation, and AI-assisted features
 
 ---
 
-## 📚 What I Do
+## 🛠️ Tech Stack
 
-- **Full-Stack Development**: Designing and implementing end-to-end solutions using a variety of tech stacks.
-- **Project Management**: Leading teams as a Scrum Master to ensure projects are completed efficiently and effectively.
-- **Team Collaboration**: Working closely with team members to foster a productive and collaborative environment.
-- **Innovation**: Constantly exploring new technologies and methodologies to enhance project outcomes.
+### Backend
+- ASP.NET / .NET
+- NestJS
+- REST APIs
+- SQL Server / SQL
+- MongoDB
+- Authentication & Authorization
+- Role-Based Access Control
+
+### Frontend
+- Angular
+- TypeScript
+- HTML / CSS
+- Responsive UI
+- React — familiar
+- React Native — familiar
+
+### Architecture & Tools
+- Clean Architecture
+- Modular Project Structure
+- API Design
+- Docker
+- Redis
+- Git / GitHub
+- Agile / Scrum
 
 ---
 
-## 🚀 Let's Connect
+## 🚀 What I Build
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yazan-faroun-94776b205/) or check out my work here on GitHub.
+- Enterprise web applications
+- Healthcare and business management systems
+- Admin portals and dashboards
+- Authentication and user management modules
+- Workflow-driven systems
+- SaaS-style platforms
+- Internal tools for teams and operations
+
+---
+
+## 💡 How I Work
+
+I care about writing code that is not only working today, but also easy to understand, maintain, and extend tomorrow.
+
+My focus is always on:
+
+- Clear project structure
+- Clean and reusable components
+- Secure backend design
+- Practical business logic
+- Good developer experience
+- Reliable delivery
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Yazan Faroun](https://www.linkedin.com/in/yazan-faroun-94776b205/)
+- GitHub: You're already here 😄
