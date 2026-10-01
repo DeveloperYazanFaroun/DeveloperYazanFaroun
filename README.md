@@ -1,85 +1,161 @@
 # Hi, I'm Yazan Faroun 👋
 
-Senior Full-Stack Software Engineer & Business Analyst building scalable enterprise web applications with **.NET, Angular, NestJS, SQL, and MongoDB**.
+### Senior Full-Stack Software Engineer | Business Analyst | AI-Enabled Systems
 
-I specialize in translating business workflows into clean, maintainable technical solutions across healthcare, SaaS, education, and logistics systems.
+I design and build scalable enterprise applications using **.NET, Angular, NestJS, SQL, and MongoDB**, with a strong focus on translating complex business workflows into maintainable software architecture.
 
-I work mainly with **ASP.NET/.NET**, **Angular**, **NestJS**, **SQL**, and **MongoDB**, with experience in designing backend APIs, frontend architectures, authentication flows, role-based access, integrations, and modular enterprise systems.
+My work sits at the intersection of **software engineering, system design, and business analysis** — from understanding requirements and modeling workflows to designing APIs, databases, authentication systems, frontend architecture, and production-ready solutions.
 
-I enjoy turning complex business requirements into clean technical solutions — from database design and API structure to responsive user interfaces and production-ready workflows.
+I've worked across **healthcare, SaaS, education, logistics, and enterprise management systems**, building applications where business rules, security, maintainability, and scalability matter.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 What I Do
 
-- 💼 Full-Stack Software Engineer & Business Analyst
-- 🧩 Experienced in healthcare, education, logistics, and SaaS-style systems
-- 🛠️ Main stack: **ASP.NET/.NET, Angular, NestJS, SQL, MongoDB**
-- 🧱 Focused on clean architecture, maintainable code, and scalable project structure
-- 🤝 Comfortable working with teams, stakeholders, and business workflows
-- 🌱 Familiar with **React** and **React Native**
-- 🚀 Interested in workflow-driven apps, automation, and AI-assisted features
+- 🏗️ Design and build scalable enterprise web applications
+- 🔄 Translate business requirements into technical architecture and workflows
+- ⚙️ Build backend services and APIs using **ASP.NET/.NET** and **NestJS**
+- 🖥️ Develop modern frontend applications with **Angular** and TypeScript
+- 🗄️ Design relational and document-based data models using **SQL** and **MongoDB**
+- 🔐 Implement authentication, authorization, RBAC, and secure application workflows
+- 🧩 Design modular systems with maintainability and future growth in mind
+- 🤖 Explore AI-assisted and intelligent features within business applications
+- 🤝 Work closely with stakeholders, developers, and product teams
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
+
 - ASP.NET / .NET
 - NestJS
 - REST APIs
-- SQL Server / SQL
+- SQL Server
 - MongoDB
+- Redis
 - Authentication & Authorization
 - Role-Based Access Control
+- Background Processing
+- API Integrations
 
 ### Frontend
+
 - Angular
 - TypeScript
 - HTML / CSS
 - Responsive UI
-- React — familiar
-- React Native — familiar
+- Component-Based Architecture
+- React — working knowledge
+- React Native — working knowledge
 
-### Architecture & Tools
+### Architecture & Engineering
+
 - Clean Architecture
-- Modular Project Structure
+- Modular Architecture
+- Repository Pattern
+- Design Patterns
+- Domain-Oriented Project Structure
 - API Design
+- Database Design
+- Workflow Modeling
+- Secure Application Design
+
+### Tools & Delivery
+
 - Docker
-- Redis
 - Git / GitHub
+- CI/CD concepts
 - Agile / Scrum
+- Technical Documentation
+- Requirements Analysis
 
 ---
 
-## 🚀 What I Build
+## 🚀 Areas I Work On
 
-- Enterprise web applications
-- Healthcare and business management systems
-- Admin portals and dashboards
-- Authentication and user management modules
-- Workflow-driven systems
-- SaaS-style platforms
-- Internal tools for teams and operations
+### Enterprise Systems
+
+Business applications with complex roles, permissions, workflows, integrations, and domain rules.
+
+### Healthcare Platforms
+
+Systems involving eligibility, authorization, payer/network structures, policy management, formularies, members, and healthcare business workflows.
+
+### SaaS Platforms
+
+Multi-module platforms involving authentication, user management, dashboards, tenant-aware workflows, APIs, and scalable backend architecture.
+
+### Workflow Automation
+
+Transforming manual operational processes into structured, auditable, and maintainable digital workflows.
+
+### AI-Enabled Applications
+
+Exploring practical ways to integrate **LLMs, AI agents, intelligent automation, and AI-assisted workflows** into production software without treating AI as a disconnected feature.
 
 ---
 
-## 💡 How I Work
+## 🧠 Engineering Approach
 
-I care about writing code that is not only working today, but also easy to understand, maintain, and extend tomorrow.
+I don't see software development as simply implementing screens and endpoints.
 
-My focus is always on:
+I prefer to understand:
 
-- Clear project structure
-- Clean and reusable components
+**Why does the business need this?**  
+**How should the workflow behave?**  
+**Where should the business logic live?**  
+**How will the system evolve when requirements change?**
+
+Then I design the technical solution around those answers.
+
+My priorities are:
+
+- Clear architecture
+- Maintainable code
+- Practical abstractions
 - Secure backend design
-- Practical business logic
+- Reusable components
+- Reliable APIs
+- Understandable business logic
 - Good developer experience
-- Reliable delivery
+- Systems that can evolve without becoming fragile
+
+---
+
+## 🌱 Currently Exploring
+
+I'm currently expanding my work around:
+
+- AI-native application architecture
+- Agentic workflows
+- LangGraph and agent orchestration
+- AI-assisted enterprise systems
+- Runtime governance for autonomous AI systems
+- Intelligent workflow automation
+
+---
+
+## 📌 Featured Work
+
+I'm gradually publishing repositories around:
+
+- Enterprise architecture patterns
+- .NET backend design
+- Repository & design patterns
+- Angular application architecture
+- Authentication and authorization
+- AI-enabled application development
+- Practical software engineering concepts
+
+More coming soon.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Yazan Faroun](https://www.linkedin.com/in/yazan-faroun-94776b205/)
-- GitHub: You're already here 😄
+- **LinkedIn:** [Yazan Faroun](https://www.linkedin.com/in/yazan-faroun-94776b205/)
+
+---
+
+> Building software that understands the business — not just the requirements.
